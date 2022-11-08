@@ -1,0 +1,32 @@
+table{
+    text-align: center;
+    height: 400px;
+    
+}
+.calen{
+    height: 100px;
+}
+.nov{ font-size: 40px;
+    color: rgb(8, 8, 105);
+}
+td{
+    color: rgb(9, 9, 170);
+    font-size: 30px;
+
+}
+.hd{
+    background-color:gray ;
+    
+}
+.red{
+    background-color: red;
+}
+.sun{
+    color: red;
+}
+.grn{
+    background-color: green;
+}
+.sat{
+    color: green;
+}
